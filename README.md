@@ -170,11 +170,6 @@ I'm a passionate Full-Stack Developer from Germany, specializing in building rob
   - WebGL & Three.js
   - Canvas API animations
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=enter9991&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enter9991&layout=compact&theme=dark)
-
 ## 🏆 Achievements & Certifications
 - 🎮 Published games on Steam/Epic Games (if applicable)
 - 📱 Apps on Google Play & App Store
